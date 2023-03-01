@@ -1,6 +1,6 @@
 <?php
 
-//Dataabse connection
+//Database connection
 $host_name = '#';
 $database = '#';
 $user_name = '#';
